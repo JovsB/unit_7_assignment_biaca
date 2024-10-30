@@ -26,6 +26,9 @@ class _AboutMeState extends State<AboutMe> {
             ),
           ),
           centerTitle: true,
+          iconTheme: const IconThemeData(
+            color: Colors.white,
+          ),
           bottom: const TabBar(
             labelColor: Colors.white,
             tabs: [
