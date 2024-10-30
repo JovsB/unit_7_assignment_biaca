@@ -13,7 +13,8 @@ class TabWidget1 extends StatelessWidget {
         SizedBox(height: 20),
         Text("Contacts Screen!", 
         style: TextStyle(
-          color: Colors.white
+          color: Colors.white,
+          fontSize: 20,
         ),),
       ],
     );
