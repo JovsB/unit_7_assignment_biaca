@@ -62,6 +62,7 @@ flutter:
 
   assets:
     - assets/bg.jpg # Make sure the path is correct
+    - assets/preview.png # Make sure the path is correct
 
     
 
