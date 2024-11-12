@@ -47,7 +47,7 @@ class _AboutMeState extends State<AboutMe> {
         body: Container(
           decoration: const BoxDecoration(
             image: DecorationImage(
-              image: AssetImage("bg.jpg"),
+              image: AssetImage("assets/bg.jpg"),
               fit: BoxFit.cover,
             ),
           ),
